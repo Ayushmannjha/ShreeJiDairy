@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ayushmannjha/shreejidairy/static/css/main.f855e6bc.css",
-    "main.js": "/Ayushmannjha/shreejidairy/static/js/main.51a35501.js",
-    "static/js/453.50e7a93c.chunk.js": "/Ayushmannjha/shreejidairy/static/js/453.50e7a93c.chunk.js",
-    "static/media/logo.svg": "/Ayushmannjha/shreejidairy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Ayushmannjha/shreejidairy/index.html",
-    "main.f855e6bc.css.map": "/Ayushmannjha/shreejidairy/static/css/main.f855e6bc.css.map",
-    "main.51a35501.js.map": "/Ayushmannjha/shreejidairy/static/js/main.51a35501.js.map",
-    "453.50e7a93c.chunk.js.map": "/Ayushmannjha/shreejidairy/static/js/453.50e7a93c.chunk.js.map"
+    "main.css": "/shreejidairy/static/css/main.f855e6bc.css",
+    "main.js": "/shreejidairy/static/js/main.eef2b6b5.js",
+    "static/js/453.50e7a93c.chunk.js": "/shreejidairy/static/js/453.50e7a93c.chunk.js",
+    "static/media/logo.svg": "/shreejidairy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shreejidairy/index.html",
+    "main.f855e6bc.css.map": "/shreejidairy/static/css/main.f855e6bc.css.map",
+    "main.eef2b6b5.js.map": "/shreejidairy/static/js/main.eef2b6b5.js.map",
+    "453.50e7a93c.chunk.js.map": "/shreejidairy/static/js/453.50e7a93c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.51a35501.js"
+    "static/js/main.eef2b6b5.js"
   ]
 }
