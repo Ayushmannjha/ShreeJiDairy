@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/shreejidairy/static/css/main.498dff2c.css",
-    "main.js": "/shreejidairy/static/js/main.d3a08155.js",
+    "main.css": "/shreejidairy/static/css/main.ad451f9a.css",
+    "main.js": "/shreejidairy/static/js/main.07d9b485.js",
     "static/js/453.50e7a93c.chunk.js": "/shreejidairy/static/js/453.50e7a93c.chunk.js",
+    "static/media/logo.png": "/shreejidairy/static/media/logo.f3520fc1d85f83091abd.png",
     "index.html": "/shreejidairy/index.html",
-    "main.498dff2c.css.map": "/shreejidairy/static/css/main.498dff2c.css.map",
-    "main.d3a08155.js.map": "/shreejidairy/static/js/main.d3a08155.js.map",
+    "main.ad451f9a.css.map": "/shreejidairy/static/css/main.ad451f9a.css.map",
+    "main.07d9b485.js.map": "/shreejidairy/static/js/main.07d9b485.js.map",
     "453.50e7a93c.chunk.js.map": "/shreejidairy/static/js/453.50e7a93c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.498dff2c.css",
-    "static/js/main.d3a08155.js"
+    "static/css/main.ad451f9a.css",
+    "static/js/main.07d9b485.js"
   ]
 }
