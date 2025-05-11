@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shreejidairy/static/css/main.81fb36a8.css",
-    "main.js": "/shreejidairy/static/js/main.d5b2971e.js",
+    "main.css": "/shreejidairy/static/css/main.498dff2c.css",
+    "main.js": "/shreejidairy/static/js/main.d3a08155.js",
     "static/js/453.50e7a93c.chunk.js": "/shreejidairy/static/js/453.50e7a93c.chunk.js",
     "index.html": "/shreejidairy/index.html",
-    "main.81fb36a8.css.map": "/shreejidairy/static/css/main.81fb36a8.css.map",
-    "main.d5b2971e.js.map": "/shreejidairy/static/js/main.d5b2971e.js.map",
+    "main.498dff2c.css.map": "/shreejidairy/static/css/main.498dff2c.css.map",
+    "main.d3a08155.js.map": "/shreejidairy/static/js/main.d3a08155.js.map",
     "453.50e7a93c.chunk.js.map": "/shreejidairy/static/js/453.50e7a93c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81fb36a8.css",
-    "static/js/main.d5b2971e.js"
+    "static/css/main.498dff2c.css",
+    "static/js/main.d3a08155.js"
   ]
 }
